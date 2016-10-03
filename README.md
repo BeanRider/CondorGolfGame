@@ -1,14 +1,8 @@
-# CondorGolfGame
-
-### Short Descriptor:
-
-A 2D golf game with a side perspective.
+# Condor Golf Game
 
 ### Summary:
 
-This is a 2D golf game written in Java, applying the Java's Swing GUI library.
+This is a 2D golf game with a side perspective written in Java, using Java's Swing GUI library.
 
 ### Key ideas utilized:
-
-#### Bezier curves:
-
+<img src="https://raw.githubusercontent.com/BeanRider/CondorGolfGame/master/file-page1.jpeg" />
